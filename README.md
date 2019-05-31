@@ -18,6 +18,14 @@
 
 2019-5-31更新MySQL同步HBase的sqoop、thrift、flink方案。
 
-## 4.LICENSE
+## 4.关于我
+
+个人博客：light-city.club
+
+个人公众号：
+
+![](./img/wechat.jpg)
+
+## 5.LICENSE
 
 GNU General Public License v3.0
