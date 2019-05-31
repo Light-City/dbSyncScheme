@@ -1,0 +1,1 @@
+load data local infile "/home/light/mysql/gps1.txt" into table loadTable fields terminated by ',' lines terminated by "\n"  (carflag, touchevent, opstatus,gpstime,gpslongitude,gpslatitude,gpsspeed,gpsorientation,gpsstatus);
